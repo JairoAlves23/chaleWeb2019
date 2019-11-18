@@ -1,0 +1,34 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica,"Trebuchet MS", sans-serif;
+    background: #fff url("../imagens/bg.png");
+    margin: 15px;
+}
+
+#container {
+    background: #ede9cc;
+}
+
+#topo {
+    background: #dbcd87;
+    height: 15.4em;
+    max-height: 250px;
+}
+
+#area-logo {
+    position: relative;
+    background: red;
+    width: 100%;
+    height: 250px;
+}
+
+#area-menu {
+    position: relative;
+    background: blue;
+    width: 450px;
+    height: 250px;
+}
